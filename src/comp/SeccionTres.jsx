@@ -9,17 +9,17 @@ function SeccionTres() {
                 <fieldset>
                     <div className="nombreApellido">
                         <div className="espacioInput">
-                        <label for="fname">First name:</label>
+                        <label htmlFor="fname">First name:</label>
                         <input type="text" id="fname" name="fname" placeholder="Nombre"/>
                         </div>
                         <div className="espacioInput">
-                        <label for="lname">Last name:</label>
+                        <label htmlFor="lname">Last name:</label>
                         <input type="text" id="lname" name="lname" placeholder="Apellido"/>
                         </div>
                     </div>
                     <div>
                         <div className="espacioInput">
-                        <label for="lname">Last name:</label>
+                        <label htmlFor="lname">Last name:</label>
                         <input type="text" id="lname" name="lname" placeholder="Email"/>
                         </div>
                         <div className="espacioInput">
