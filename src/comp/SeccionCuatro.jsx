@@ -3,7 +3,7 @@ import Form from 'react-bootstrap/Form';
 
 function SeccionCuatro() {
     return (
-        <section className="seccionCuatro py-5 px-2">
+        <section id="contacto" className="seccionCuatro py-5 px-2">
             <div className="py-4">
                 <div className="col-sm-9 col-md-7 mx-auto px-2">
                 <h2 className="text-center pb-2">

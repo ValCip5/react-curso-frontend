@@ -2,7 +2,7 @@ import React from 'react'
 
 function SeccionTres() {
     return (
-        <section className="seccionTres px-2 py-5">
+        <section id="portfolio" className="seccionTres px-2 py-5">
             <div className="container pt-4">
                 <h2 className="text-center">PORTFOLIO</h2>
                 <div className="pt-5 text-center">

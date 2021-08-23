@@ -2,7 +2,7 @@ import React from 'react'
 
 function SeccionDos() {
     return (
-        <section className="seccionDos py-5 px-2">
+        <section id="quiensoy" className="seccionDos py-5 px-2">
             <div className="container py-4">
                 <h2 className="text-center">QUIEN SOY</h2>
                 <div className="row py-4 col-md-11 col-lg-9 mx-auto">

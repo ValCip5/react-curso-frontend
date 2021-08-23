@@ -2,7 +2,7 @@ import React from 'react'
 
 function SeccionUno() {
     return (
-        <section className="seccionUno py-5 px-2">
+        <section id="home" className="seccionUno py-5 px-2">
             <div className="container py-4 pt-0">
             <figure>
                 <img src="img/yo.png" alt="Valentín"/>
